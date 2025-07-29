@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://courageous-pegasus-d23412.netlify.app")
 @RestController
 @RequestMapping("/appointments")
 public class AppointmentController {
