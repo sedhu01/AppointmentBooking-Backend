@@ -1,7 +1,0 @@
-body { font-family: 'Segoe UI', Arial, sans-serif; background: #f8f9fa; }
-.navbar-brand { font-weight: bold; }
-.container { margin-top: 40px; }
-footer.footer { position: fixed; left: 0; bottom: 0; width: 100%; }
-.table th, .table td { vertical-align: middle !important; }
-.btn { min-width: 100px; }
-#alertBox { margin-bottom: 1rem; } 
